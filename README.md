@@ -1,5 +1,4 @@
 ### Hi there 👋
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
 <!--
 **Ghost1032/Ghost1032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
